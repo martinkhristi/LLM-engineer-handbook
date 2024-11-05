@@ -111,17 +111,21 @@ Reasoning & Planning
 
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
 
+**pandasAI**
+PandasAI is a Python library that makes it easy to ask questions to your data in natural language.
+
+**Docling - IBM's latest open-source powerhouse**
+Convert PDFs, DOCX, images, and more into JSON and Markdown with ease.
+
+
+
+
 ## Social Accounts
 
 - [Chip Huyen](https://www.linkedin.com/in/chiphuyen)
 - [Damien Benveniste, PhD](https://www.linkedin.com/in/damienbenveniste/)
 - [Jim Fan](https://www.linkedin.com/in/drjimfan/)
 - [Li Yin](https://www.linkedin.com/in/li-yin-ai)
-- [Paul Iusztin](https://www.linkedin.com/in/pauliusztin/) LLMOps
-- [Armand Ruiz](https://www.linkedin.com/in/armand-ruiz/) AI product at IBM
-- [Pascal Biese](https://www.linkedin.com/in/pascalbiese/) Daily LLM papers
-- [Maxime Labonne](https://www.linkedin.com/in/maxime-labonne/) LLM fine-tuning
-
 
 
 ## Contributing
